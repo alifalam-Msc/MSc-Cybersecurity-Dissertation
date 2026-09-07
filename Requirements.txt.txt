@@ -1,0 +1,32 @@
+Software specifications
+scikit-learn==1.9.0
+xgboost==3.2.0
+shap==0.52.0
+lime==0.2.0
+torch==2.12.0
+pandas==3.0.3
+numpy==2.4.6
+matplotlib==3.11.0
+seaborn==0.13.2
+imbalanced-learn==0.14.2
+joblib
+jupyter
+notebook
+
+Hardware Minimum Specification
+
+CPU - Intel core I5 or AMD Ryzen 5
+RAM - 16 GB
+Storage - 20 GB free space
+Operating System - Windows 10 / mac0S 11 / Ubuntu 20.04
+Python Version 3.10.x
+GPU - Not required
+
+Hardware Recommended Specification
+
+CPU - Intel Core i7 or AMD Ryzen 7 (8+ cores)
+RAM - 32 GB
+Storage - 50 GB SSD
+Operating System - Windows 11 / Ubuntu 22.04
+Python Version - 3.10.x
+GPU - Not required

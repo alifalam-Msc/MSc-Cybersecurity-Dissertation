@@ -21,7 +21,7 @@ Place downloaded CSV files in a `data/` folder before running notebooks.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/alifalam/MSc-Cybersecurity-Dissertation.git
+git clone https://github.com/alifalam-Msc/MSc-Cybersecurity-Dissertation.git
 ```
 
 2. Install dependencies:
